@@ -141,14 +141,15 @@
 #     print(i,"*5=",a)
 
 
-total_seat=int(input("enter the  total no of seat; "))
-seat_no=1
-while True:
-    if seat_no<=total_seat:
-        name=input(f"Enter the name{seat_no}:")
-        print(f"seat {seat_no}booked for {name}")
-        seat_no+=1
-    else:
-        print("All seats are booked ")
-        break
+# total_seat=int(input("enter the  total no of seat; "))
+# seat_no=1
+# while True:
+#     if seat_no<=total_seat:
+#         name=input(f"Enter the name{seat_no}:")
+#         print(f"seat {seat_no}booked for {name}")
+#         seat_no+=1
+#     else:
+#         print("All seats are booked ")
+#         break
+
 
