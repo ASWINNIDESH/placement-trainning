@@ -58,11 +58,11 @@
 # else:
 #     print("x is less than y")
 
-variable=input("enter a character =")
-if(variable==str("a" or "e" or "i" or "o" or "u")):
-    print("vowels")
-else:
-    print("consoant")
+# variable=input("enter a character =")
+# if(variable==str("a" or "e" or "i" or "o" or "u")):
+#     print("vowels")
+# else:
+#     print("consoant")
 
 # mark=int(input("enter the  mark="))   
 # if (mark==100):
@@ -76,11 +76,12 @@ else:
 # else:
 #     print("F")    
 
-buying_price=float(input("enter the price"))
-selling_price=float(input("enter the price"))
-if(buying_price>selling_price):
-    print("lose")
-elif(selling_price==buying_price):
-    print("no loss no profit")    
-else:
-    print("profit")    
+# buying_price=float(input("enter the price"))
+# selling_price=float(input("enter the price"))
+# if(buying_price>selling_price):
+#     print("lose")
+# elif(selling_price==buying_price):
+#     print("no loss no profit")    
+# else:
+#     print("profit")    
+
