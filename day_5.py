@@ -115,13 +115,13 @@
 # s1.show_result()            
 
 # class converter:
-#     def __init__(self,c,f):
+#     def __init__(self,c):
 #         self.c=c
-#         self.f=f
 #     def result(self):
-#         for c in (self):
+#         for c in self.c:
 #             f=c*(9/5)+32 
 #             print(f)
-c=int(input("enter value ="))
-f=c*(9/5)+32 
-print(f)
+
+# celsius=[0,20,37,100]
+# m=converter(celsius)
+# m.result()
