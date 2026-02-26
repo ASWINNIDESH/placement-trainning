@@ -47,12 +47,12 @@
 # print("removed",heapq.heappop(pq))
 # print("removed",heapq.heappop(pq))
 
-import heapq
-pq=[]
+# import heapq
+# pq=[]
 
-heapq.heappush(2,"medium task ")
-heapq.heappush(1,"high task")
-heapq.heappush(3,"low task")
-while pq:
-    priority,task=heapq.heappop(pq)
-    print(priority,task)
+# heapq.heappush(2,"medium task ")
+# heapq.heappush(1,"high task")
+# heapq.heappush(3,"low task")
+# while pq:
+#     priority,task=heapq.heappop(pq)
+#     print(priority,task)
